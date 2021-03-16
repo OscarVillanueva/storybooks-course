@@ -1,0 +1,18 @@
+.input {
+    border: 1px solid#aaaaaa;
+    padding: 1rem 1.7rem;
+    border-radius: 0.2rem;
+    font-size: 0.8rem;
+}
+
+.full {
+    width: 90%;
+}
+
+.mid {
+    width: 50%;
+}
+
+.small {
+    width: 20%;
+}

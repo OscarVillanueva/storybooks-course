@@ -1,0 +1,45 @@
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.primary {
+    background-color: #008cba;
+}
+.secondary {
+    background-color: #e7e7e7;
+    color: black;
+}
+.success {
+    background-color: #4caf50;
+}
+.danger {
+    background-color: #f44336;
+}
+.input {
+    border: 1px solid#aaaaaa;
+    padding: 1rem 1.7rem;
+    border-radius: 0.2rem;
+    font-size: 0.8rem;
+}
+
+.full {
+    width: 90%;
+}
+
+.mid {
+    width: 50%;
+}
+
+.small {
+    width: 20%;
+}
+
+/*# sourceMappingURL=main.36bba399.chunk.css.map*/
